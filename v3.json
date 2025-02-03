@@ -9,6 +9,6 @@
   ],
   "minzoom": 0,
   "maxzoom": 18,
-  "bounds": [-180, -85.0511, 180, 85.0511],
+  "bounds": [ 44.05222, 24.50552, 63.34049, 39.79134],
   "attribution": "© OpenMapTiles, © OpenStreetMap contributors"
 }
